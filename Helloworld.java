@@ -1,5 +1,8 @@
-class HelloWorld{
-  public static void Main(String[] args){
-    system.out.println("Hello World");
+public class Helloworld{
+  /**
+   * @param args
+   */
+  public static void main(String[] args){
+    System.out.println("Hello World");
 }
 }
